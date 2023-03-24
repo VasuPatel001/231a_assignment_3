@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/p1/PoseCNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p1/PoseCNN/Pangolin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p1/PoseCNN/Sophus" vcs="Git" />
+  </component>
+</project>
